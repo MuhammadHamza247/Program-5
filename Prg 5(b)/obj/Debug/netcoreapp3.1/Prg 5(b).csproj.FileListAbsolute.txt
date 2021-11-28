@@ -1,0 +1,4 @@
+D:\c#\Program 5\Prg 5(b)\obj\Debug\netcoreapp3.1\Prg 5(b).csprojAssemblyReference.cache
+D:\c#\Program 5\Prg 5(b)\obj\Debug\netcoreapp3.1\Prg 5(b).AssemblyInfoInputs.cache
+D:\c#\Program 5\Prg 5(b)\obj\Debug\netcoreapp3.1\Prg 5(b).AssemblyInfo.cs
+D:\c#\Program 5\Prg 5(b)\obj\Debug\netcoreapp3.1\Prg 5(b).csproj.CoreCompileInputs.cache
